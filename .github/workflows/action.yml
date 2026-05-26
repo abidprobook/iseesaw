@@ -34,7 +34,7 @@ jobs:
       
       - name: Commit and push changes
         run: |
-          git add isee.txt
+          git add isee.txt key.txt taken.txt
           git fetch origin main
           git reset --soft origin/main
           if git diff --cached --quiet; then
