@@ -1,1 +1,1 @@
-hdntl=exp=1779998438~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=9d7e55af9d5a8f9dc29a2967e106ec206bc4314b3ae8bd4768c9a0a1433170a0
+hdntl=exp=1779999326~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=881b31b31c22764a6c34aec9c2f331162daf61806892ce1e8995da3e01e691ad
