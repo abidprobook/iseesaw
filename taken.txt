@@ -1,1 +1,1 @@
-taken
+hdntl=exp=1779993131~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=2ef2804f6499602948a9fa2a2abeaf916784037d98b2371c9b23ae9820f43ce6
