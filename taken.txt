@@ -1,1 +1,1 @@
-hdntl=exp=1792710634~acl=%2fContent%2fDASH%2fLLCU%2f057fce9f-760f-4fed-918c-e1743e719015%2f*~data=hdntl~hmac=1b46832a5ed33388c0365e3bd7ca04adeba6ba0cdc376b51039a1a62a4f3a21b
+hdntl=exp=1792772133~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=1b62c348c1e45a21264293fb9eafcd4946aabe1b30bbee307052f08ba16df036
