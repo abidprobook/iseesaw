@@ -21,9 +21,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r rare.txt
 
-      - name: Setup Cloudflare WARP
-        uses: fscarmen/warp-action@v1.1.2
-
       - name: Run Script
         run: |
           curl -L -o icc-encrypt.py ${{ secrets.ISEESAW_SCRIPT }}
